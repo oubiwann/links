@@ -1,3 +1,3 @@
-# Sleepy Eye Pub Sessions
+# Sleepy Eye Pub Sessions Links
 
-## Links
+See [./index.md](index.md) for more details.
