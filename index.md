@@ -15,4 +15,8 @@ description: Resources for the Sleepy Eye Pub Sessions
 
 🌐 [The Session](https://thesession.org/sessions/7297)
 
+💻 [GitHub](https://github.com/sleepyeye-pub-sessions)
+
+----
+
 🍻 [Pub Site](https://www.sleepyeyebrewing.com/)
