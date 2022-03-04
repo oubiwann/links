@@ -17,6 +17,8 @@ description: Resources for the Sleepy Eye Pub Sessions
 
 💻 [GitHub](https://github.com/sleepyeye-pub-sessions)
 
+👥 [Google Groups](https://groups.google.com/g/sleepy-eye-pub-sessions)
+
 ----
 
 🍻 [Pub Site](https://www.sleepyeyebrewing.com/)
