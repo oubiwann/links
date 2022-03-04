@@ -1,6 +1,6 @@
 ---
 title: Links
-description: Resources for Sleepy Eye Pub Sessions
+description: Resources for the Sleepy Eye Pub Sessions
 ---
 
 🐦 [Twitter](https://twitter.com/SleepyEyePubSsn)
