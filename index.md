@@ -11,7 +11,7 @@ description: Resources for the Sleepy Eye Pub Sessions
 
 🎶 [Sheet Music](https://drive.google.com/drive/folders/1TDPNDr1HNHdaxlG02ZyFlhB7uIa80-5y?usp=sharing) (session archives)
 
-🔊 [Soundcloud](https://soundcloud.com/sleepyeye-pub-sessions)
+🔊 [Soundcloud](https://soundcloud.com/sleepyeye-pub-sessions/sets)
 
 🌐 [The Session](https://thesession.org/sessions/7297)
 
