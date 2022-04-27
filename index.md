@@ -5,8 +5,6 @@ description: Resources for the Sleepy Eye Pub Sessions
 
 🐘 [Mastodon](https://mastodon.art/@sleepyeyepubsessions)
 
-🐦 [Twitter](https://twitter.com/SleepyEyePubSsn)
-
 📷 [Instagram](https://www.instagram.com/sleepyeyepubsessions/)
 
 📺 [YouTube](https://www.youtube.com/channel/UC0FM-3hksyOe-8Gzkfqiwnw) (session prep)
@@ -24,3 +22,9 @@ description: Resources for the Sleepy Eye Pub Sessions
 ----
 
 🍻 [Pub Site](https://www.sleepyeyebrewing.com/)
+
+----
+
+Old:
+
+🐦 [Twitter](https://twitter.com/SleepyEyePubSsn)
