@@ -3,6 +3,8 @@ title: Links
 description: Resources for the Sleepy Eye Pub Sessions
 ---
 
+🐘 [Mastodon](https://mastodon.art/@sleepyeyepubsessions)
+
 🐦 [Twitter](https://twitter.com/SleepyEyePubSsn)
 
 📷 [Instagram](https://www.instagram.com/sleepyeyepubsessions/)
