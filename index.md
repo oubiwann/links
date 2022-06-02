@@ -1,30 +1,16 @@
 ---
 title: Links
-description: Resources for the Sleepy Eye Pub Sessions
+description: Resources for the Domang Jazz Ensemble
 ---
 
-🐘 [Mastodon](https://mastodon.art/@sleepyeyepubsessions)
+🐘 [Mastodon](https://mastodon.art/@tdje)
 
-📷 [Instagram](https://www.instagram.com/sleepyeyepubsessions/)
+📷 [Instagram](https://www.instagram.com/domangjazz/)
 
-📺 [YouTube](https://www.youtube.com/channel/UC0FM-3hksyOe-8Gzkfqiwnw) (session prep)
+📺 [YouTube](https://www.youtube.com/channel/UCQlmGQA2ICTYgSvcfmLH-oA)
 
-🎶 [Sheet Music](https://drive.google.com/drive/folders/1TDPNDr1HNHdaxlG02ZyFlhB7uIa80-5y?usp=sharing) (session archives)
+🎶 [Sheet Music](https://drive.google.com/drive/folders/TBD)
 
-🔊 [Soundcloud](https://soundcloud.com/sleepyeye-pub-sessions/sets)
+🔊 [Soundcloud](https://soundcloud.com/domang-jazz-ensemble/albums)
 
-🌐 [The Session](https://thesession.org/sessions/7297)
-
-💻 [GitHub](https://github.com/sleepyeye-pub-sessions)
-
-👥 [Google Groups](https://groups.google.com/g/sleepy-eye-pub-sessions)
-
-----
-
-🍻 [Pub Site](https://www.sleepyeyebrewing.com/)
-
-----
-
-Old:
-
-🐦 [Twitter](https://twitter.com/SleepyEyePubSsn)
+💻 [GitHub](https://github.com/domang-jazz-ensemble)
