@@ -1,3 +1,3 @@
-# Sleepy Eye Pub Sessions Links
+# Domang Jazz Ensemble Links
 
 See [./index.md](index.md) for more details.
