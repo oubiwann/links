@@ -9,7 +9,7 @@ description: Resources for the Domang Jazz Ensemble
 
 📺 [YouTube](https://www.youtube.com/channel/UCQlmGQA2ICTYgSvcfmLH-oA)
 
-🎶 [Sheet Music](https://drive.google.com/drive/folders/1fq6YZ8aZz6KepLBUhM3gYMuCmxeONaKn?usp=sharing)
+🎶 [Lead Sheets / Scores](https://drive.google.com/drive/folders/1fq6YZ8aZz6KepLBUhM3gYMuCmxeONaKn?usp=sharing)
 
 🐦 [Twitter](https://twitter.com/DomangJazz)
 
