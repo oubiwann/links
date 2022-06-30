@@ -1,7 +1,9 @@
 ---
 title: Links
-description: Resources for the Domang Jazz Ensemble
+description: Stuff that I've done or am working on
 ---
+
+(The following are from a fork; I'll update with my own links ...)
 
 🎸 [Bandcamp](https://domang-jazz-ensemble.bandcamp.com/)
 
