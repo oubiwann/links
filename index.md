@@ -1,22 +1,30 @@
 ---
 title: Links
-description: Stuff that I've done or am working on
+description: Social, software, and music
 ---
 
-(The following are from a fork; I'll update with my own links ...)
+# Social
 
-🎸 [Bandcamp](https://domang-jazz-ensemble.bandcamp.com/)
+📺 [YouTube](https://www.youtube.com/channel/UCgbgTiZbjVPzXCmdZb9Jdkw)
 
-🎶 [Lead Sheets / Scores](https://drive.google.com/drive/folders/1fq6YZ8aZz6KepLBUhM3gYMuCmxeONaKn?usp=sharing)
+🐘 [Mastodon](https://mastodon.social/web/@oubiwann)
 
-🔊 [Soundcloud](https://soundcloud.com/domang-jazz-ensemble/albums)
+🐦 [Twitter](https://twitter.com/oubiwann)
 
-📺 [YouTube](https://www.youtube.com/channel/UCQlmGQA2ICTYgSvcfmLH-oA)
+📷 [Instagram](https://www.instagram.com/oubiwann/)
 
-🐘 [Mastodon](https://mastodon.art/@tdje)
+🔗 [LinkedIn](https://www.linkedin.com/in/oubiwann/)
 
-🐦 [Twitter](https://twitter.com/DomangJazz)
+# Software
 
-📷 [Instagram](https://www.instagram.com/domangjazz/)
+## LFE
 
-💻 [GitHub](https://github.com/domang-jazz-ensemble)
+TBD
+
+## Clojure
+
+TBD
+
+# Music
+
+🔊 [Soundcloud](https://soundcloud.com/oubiwann/tracks)
