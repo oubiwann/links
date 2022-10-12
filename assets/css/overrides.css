@@ -6,6 +6,7 @@ header.page-header-custom {
     background-image: url("../images/banner-v1.2-dark.jpg") !important;
     background-size: cover !important;
     overflow: hidden;
+    border-bottom: solid 4px #000;
 }
 
 main.main-content-custom h1 {
@@ -14,6 +15,10 @@ main.main-content-custom h1 {
 
 main.main-content-custom h2 {
     color: #BB5100;
+}
+
+main a {
+    color: #193D6A !important;
 }
 
 footer.site-footer-custom {
