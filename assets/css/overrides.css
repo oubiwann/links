@@ -11,18 +11,22 @@ header.page-header-custom {
 
 header h1.project-name-custom {
     color: #5BD5F8;
+    font-family: 'Marcellus', serif;
 }
 
 header h2.project-tagline-custom {
     color: #A57A80;
+    font-family: 'Marcellus', serif;
 }
 
 main.main-content-custom h1 {
     color: #650202;
+    font-family: 'Marcellus', serif;
 }
 
 main.main-content-custom h2 {
     color: #BB5100;
+    font-family: 'Marcellus', serif;
 }
 
 main a {
