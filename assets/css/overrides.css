@@ -6,7 +6,15 @@ header.page-header-custom {
     background-image: url("../images/banner-v1.2-dark.jpg") !important;
     background-size: cover !important;
     overflow: hidden;
-    border-bottom: solid 4px #000;
+    border-bottom: solid 2px #BB5100;
+}
+
+header h1.project-name-custom {
+    color: #5BD5F8;
+}
+
+header h2.project-tagline-custom {
+    color: #A57A80;
 }
 
 main.main-content-custom h1 {
