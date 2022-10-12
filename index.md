@@ -1,6 +1,6 @@
 ---
 title: Links
-description: social, software, and music
+description: social, music, & software
 ---
 
 # Social
@@ -14,6 +14,14 @@ description: social, software, and music
 📷 [Instagram](https://www.instagram.com/oubiwann/)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/oubiwann/)
+
+# Music
+
+🔊 [Soundcloud](https://soundcloud.com/oubiwann/tracks)
+
+[The Forgotten Tones Project](https://forgottenton.es/)
+
+[Celtic Pub Sessions](https://sleepyeye-pub-sessions.github.io/links/)
 
 # Software
 
@@ -45,6 +53,6 @@ description: social, software, and music
 
 [NASA CMR Libraries](https://github.com/cmr-exchange)
 
-# Music
+## World Building
 
-🔊 [Soundcloud](https://soundcloud.com/oubiwann/tracks)
+[Hexagram30](https://github.com/hexagram30)
