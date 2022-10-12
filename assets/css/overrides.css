@@ -3,6 +3,7 @@ body {
 }
 
 header.page-header-custom {
+    background-color: #121B24 !important;
     background-image: url("../images/banner-v1.2-dark.jpg") !important;
     background-size: cover !important;
     overflow: hidden;
