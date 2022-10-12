@@ -1,5 +1,21 @@
+body {
+    background-color: #DDCC99;
+}
+
 header.page-header-custom {
     background-image: url("../images/banner-v1.2-dark.jpg") !important;
     background-size: cover !important;
     overflow: hidden;
+}
+
+main.main-content-custom h1 {
+    color: #650202;
+}
+
+main.main-content-custom h2 {
+    color: #BB5100;
+}
+
+footer.site-footer-custom {
+    border-top-color: #AF7C36;
 }
