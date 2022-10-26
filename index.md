@@ -5,7 +5,7 @@ description: social, music, & software
 
 # Social
 
-📺 [YouTube](youtube.com/@dmmcg)
+📺 [YouTube](https://youtube.com/@dmmcg)
 
 🐘 [Mastodon](https://mastodon.social/web/@oubiwann)
 
