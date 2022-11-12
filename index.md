@@ -21,8 +21,6 @@ description: social, music, & software
 
 # Software
 
-[Personal](https://github.com/oubiwann)
-
 ## LFE
 
 [Core LFE](https://github.com/lfe)
@@ -49,6 +47,10 @@ description: social, music, & software
 
 [NASA CMR Libraries](https://github.com/cmr-exchange)
 
-## World Building
+## Other
 
-[Hexagram30](https://github.com/hexagram30)
+[Go](https://github.com/geomyidia)
+
+[Rust](https://github.com/oxur)
+
+[World Building](https://github.com/hexagram30)
