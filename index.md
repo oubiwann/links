@@ -33,9 +33,6 @@ description: social, music, & software
 
 [LFE Web](https://github.com/lfe-mug)
 
-## Erlang
-
-[Libraries](https://github.com/erlsci)
 
 ## Clojure
 
@@ -48,6 +45,8 @@ description: social, music, & software
 [NASA CMR Libraries](https://github.com/cmr-exchange)
 
 ## Other
+
+[Erlang](https://github.com/erlsci)
 
 [Go](https://github.com/geomyidia)
 
