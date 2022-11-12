@@ -9,10 +9,6 @@ description: social, music, & software
 
 🐘 [Mastodon](https://mastodon.social/web/@oubiwann)
 
-🐦 [Twitter](https://twitter.com/oubiwann)
-
-📷 [Instagram](https://www.instagram.com/oubiwann/)
-
 🔗 [LinkedIn](https://www.linkedin.com/in/oubiwann/)
 
 # Music
