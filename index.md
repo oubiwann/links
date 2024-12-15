@@ -1,23 +1,30 @@
 ---
 title: Links
-description: social, music, & software
+description: music, social, & software
 ---
-
-# Social
-
-📺 [YouTube](https://youtube.com/@dmmcg)
-
-🐘 [Mastodon](https://mastodon.social/web/@oubiwann)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/oubiwann/)
 
 # Music
 
-🔊 [Soundcloud](https://soundcloud.com/oubiwann/tracks)
+🔊 [Soundcloud](https://soundcloud.com/oubiwann/sets)
+
+🔊 [twitch.tv](https://www.twitch.tv/djammcg)
+
+📺 [YouTube](https://youtube.com/@djammcg)
+
+🔊 [itch.io](https://oubiwann.itch.io/)
 
 [The Forgotten Tones Project](https://forgottenton.es/)
 
 [Celtic Pub Sessions](https://sleepyeye-pub-sessions.github.io/links/)
+
+
+# Social
+
+📺 [YouTube](https://youtube.com/@djammmcg)
+
+🐘 [Mastodon](https://mastodon.social/web/@oubiwann)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/oubiwann/)
 
 # Software
 
